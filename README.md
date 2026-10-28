@@ -1,4 +1,7 @@
-﻿# eco-innovation
+<img width="1355" height="598" alt="EcoNexus1" src="https://github.com/user-attachments/assets/b2f5eaf4-35d9-44a2-af6d-7b89154a774b" />
+<img width="1350" height="600" alt="EcoNexus2" src="https://github.com/user-attachments/assets/d6d03a2e-c454-43ce-922f-cb2c7ab7faae" />
+ 
+ # eco-innovation
 # 🌱 Eco Innovation Platform
 
 A full-stack web application that enables users to **share, explore, and manage eco-friendly ideas** aimed at solving environmental challenges.
@@ -84,6 +87,8 @@ or
 
 ```
 node index.js
+
+
 ```
 
 ---
@@ -133,9 +138,4 @@ Database: **MongoDB Atlas**
 
 ---
 
-<img width="1355" height="598" alt="EcoNexus1" src="https://github.com/user-attachments/assets/bb1f7d4b-b6ac-4b99-856f-4b9cad5e2f14" />
-<img width="1350" height="600" alt="EcoNexus2" src="https://github.com/user-attachments/assets/53a1dda7-7ca5-406c-9249-e681a36dbf95" />
-
-
-If you like this project, please give it a ⭐ on GitHub.
 
