@@ -65,15 +65,6 @@ eco-innovation-platform
 
 ---
 
-# ⚙️ Installation
-
-## 1️⃣ Clone the repository
-
-```
-git clone https://github.com/amitrajstm/eco-innovation-platform.git
-cd eco-innovation-platform
-```
-
 ---
 
 # Backend Setup
@@ -81,14 +72,6 @@ cd eco-innovation-platform
 ```
 cd server
 npm install
-```
-
-Create a `.env` file inside `server`:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 ```
 
 Run backend:
@@ -128,37 +111,6 @@ npm run dev
 
 ---
 
-# 🌐 API Endpoints
-
-### Authentication
-
-```
-POST /api/auth/register
-POST /api/auth/login
-```
-
-### Ideas
-
-```
-GET /api/ideas
-POST /api/ideas
-```
-
----
-
-# 📷 Screenshots
-
-Add screenshots of your UI here.
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/dashboard.png
-```
-
----
-
 # 🔒 Environment Variables
 
 ### Server
@@ -167,26 +119,9 @@ Example:
 PORT=
 MONGO_URI=
 JWT_SECRET=
-```
-
-### Client
-
-```
-VITE_API_URL=
-```
-
 ---
 
-# 📈 Future Improvements
 
-* Idea voting system
-* Admin dashboard
-* Comment system
-* Idea categories & filtering
-* Email notifications
-* Public idea marketplace
-
----
 
 # 🌍 Deployment
 
@@ -195,31 +130,6 @@ Recommended deployment stack:
 Frontend: **Vercel**
 Backend: **Render / Railway**
 Database: **MongoDB Atlas**
-
----
-
-# 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-
-```
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```
-git commit -m "Add new feature"
-```
-
-4. Push and create a pull request
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
